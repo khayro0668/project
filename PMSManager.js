@@ -93,3 +93,10 @@ function getRandomResident() {
     ];
     return names[Math.floor(Math.random() * names.length)];
 }
+function khayrotesting() {
+
+
+
+
+
+};
